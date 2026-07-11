@@ -1,0 +1,4 @@
+interface:
+  display_name: "AIGBD Workflow"
+  short_description: "Run and maintain the stable AIGBD business-development workflow"
+  default_prompt: "Use the stable AIGBD workflow to run, diagnose, document, or safely improve the local BrowserUse project."
