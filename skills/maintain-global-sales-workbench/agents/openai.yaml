@@ -1,0 +1,14 @@
+interface:
+  display_name: 国际业务工作台维护
+  short_description: 从Outlook和附件核验客户报价跟进并安全发布工作台
+  default_prompt: Use $maintain-global-sales-workbench to sync verified Outlook and
+    attachment data into the international sales workbench.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
