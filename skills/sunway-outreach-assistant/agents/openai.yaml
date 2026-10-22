@@ -1,0 +1,6 @@
+interface:
+  display_name: "Sunway 开发小助手"
+  short_description: "操作 RFQ 审核、邮件草稿与 Outlook 单封发送"
+  default_prompt: "Use $sunway-outreach-assistant to inspect or operate the existing Sunway trade outreach assistant."
+policy:
+  allow_implicit_invocation: true
