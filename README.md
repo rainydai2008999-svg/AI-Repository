@@ -15,4 +15,8 @@ It covers:
 - local draft email generation
 - Windows troubleshooting and safety guardrails
 
-The repository intentionally excludes API keys, `.env`, customer CSV exports, logs, cookies, and generated emails.
+## Sunway Outreach Assistant Skill
+
+The `skills/sunway-outreach-assistant` package documents safe operation of the existing local Sunway RFQ and outreach assistant, including platform sync and import reconciliation, chronological RFQ review, manual email approval and single-message sending, Outlook status reconciliation, and local troubleshooting.
+
+The repository intentionally excludes API keys, `.env`, customer CSV exports, logs, cookies, credentials, databases, backups, and generated customer emails.
